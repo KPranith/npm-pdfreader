@@ -39,7 +39,8 @@
   },
   "homepage": "https://github.com/adrienjoly/npm-pdfreader",
   "dependencies": {
-    "pdf2json": "3.0.1"
+    "lodash": "^4.17.21",
+    "pdf2json": "3.0.3"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.1",
